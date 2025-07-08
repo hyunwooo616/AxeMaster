@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86d03a0a170563848ae2dc0cefa5408c, type: 3}
+  m_Name: LevelPer
+  m_EditorClassIdentifier: 
+  level2Per: 100
+  level3Per: 100
+  level4Per: 100
+  level5Per: 100
+  level6Per: 95
+  level7Per: 95
+  level8Per: 95
+  level9Per: 90
+  level10Per: 90
+  level11Per: 90
+  level12Per: 90
+  level13Per: 85
+  level14Per: 75
+  level15Per: 75
+  level16Per: 70
+  level17Per: 70
+  level18Per: 70
+  level19Per: 65
+  level20Per: 60
+  level21Per: 50
+  level22Per: 45
+  level23Per: 35
+  level24Per: 30
+  level25Per: 20

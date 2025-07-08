@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce80054c838047549b2d1cb16ae31de9, type: 3}
+  m_Name: WeaponNameSO
+  m_EditorClassIdentifier: 
+  weaponName1: "\uB0A1\uACE0 \uC624\uB798\uB41C \uB3C4\uB07C"
+  weaponName2: "\uBB34\uB518 \uB179\uC2A8 \uB3C4\uB07C"
+  weaponName3: "\uBE5B\uBC14\uB79C \uC0C1\uC544 \uB3C4\uB07C"
+  weaponName4: "\uCC38\uC5ED\uB0A0\uC758 \uC740\uBE5B \uB3C4\uB07C"
+  weaponName5: "\uC740\uBE5B \uC591\uB0A0 \uB3C4\uB07C"
+  weaponName6: "\uB9F9\uB3C5 \uC0B0\uD654 \uB3C4\uB07C"
+  weaponName7: "\uCE60\uD751\uC758 \uC591\uB0A0 \uB3C4\uB07C"
+  weaponName8: "\uC740\uBE5B\uAE30\uC0AC\uC758 \uB3C4\uB07C"
+  weaponName9: "\uBB35\uC2DC\uC758 \uCC98\uD615\uC790"
+  weaponName10: "\uADF8\uB808\uC774\uD2B8 \uB3C4\uB07C"
+  weaponName11: "\uC5B4\uB460\uC774 \uAC08\uB77C\uC9C4 \uB3C4\uB07C"
+  weaponName12: "\uBE14\uB7EC\uB4DC \uB9C8\uC2A4"
+  weaponName13: "\uC655\uAC00\uC758 \uAE08\uBE5B \uB3C4\uB07C"
+  weaponName14: "\uC655\uAC00\uC758 \uAE08\uBE5B \uB300\uCC9C\uC0AC"
+  weaponName15: "\uB77C\uC77C\uB77D \uC30D\uB3C4\uB07C"
+  weaponName16: "\uC250\uB3C4\uC6B0 \uD15C\uD398\uC2A4\uD2B8"
+  weaponName17: "\uC5D0\uBC84\uADF8\uB9B0 \uB370\uC2A4"
+  weaponName18: "\uBC14\uC774\uC62C\uB81B \uC704\uC2A4\uD37C"
+  weaponName19: "\uC708\uD130 \uBE0C\uB808\uC774\uD06C"
+  weaponName20: "\uBD88\uAF43 \uC9C0\uC625\uC758 \uBD84\uB178"
+  weaponName21: "\uC11C\uB9AC\uAD70\uC8FC\uC758 \uBD84\uB178"
+  weaponName22: "\uBCF4\uB78F\uBE5B \uB0A0\uAC1C\uC758 \uBD84\uB178"
+  weaponName23: "\uD558\uB974\uB9C8\uCE78\uC758 \uC720\uC0B0"
+  weaponName24: "\uC0C8\uBCBD\uC744 \uBCA0\uB294 \uC790"
+  weaponName25: "\uBD89\uC740 \uBD84\uB178\uC758 \uC2EC\uD310\uC790"

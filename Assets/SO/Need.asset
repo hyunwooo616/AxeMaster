@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24457cbadc332c648ac57b95cc6b192a, type: 3}
+  m_Name: Need
+  m_EditorClassIdentifier: 
+  needMoney2: 1000
+  needMoney3: 2000
+  needMoney4: 3000
+  needMoney5: 5000
+  needMoney6: 5500
+  needMoney7: 6000
+  needMoney8: 7000
+  needMoney9: 9000
+  needMoney10: 10000
+  needMoney11: 15000
+  needMoney12: 17500
+  needMoney13: 20000
+  needMoney14: 25000
+  needMoney15: 30000
+  needMoney16: 40000
+  needMoney17: 50000
+  needMoney18: 55000
+  needMoney19: 60000
+  needMoney20: 70000
+  needMoney21: 75000
+  needMoney22: 85000
+  needMoney23: 90000
+  needMoney24: 95000
+  needMoney25: 100000

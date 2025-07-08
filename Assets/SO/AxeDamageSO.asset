@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02a657998fec186498d95a01e565298b, type: 3}
+  m_Name: AxeDamageSO
+  m_EditorClassIdentifier: 
+  damage1: 7
+  damage2: 13
+  damage3: 18
+  damage4: 25
+  damage5: 35
+  damage6: 50
+  damage7: 55
+  damage8: 60
+  damage9: 80
+  damage10: 90
+  damage11: 100
+  damage12: 125
+  damage13: 135
+  damage14: 150
+  damage15: 160
+  damage16: 180
+  damage17: 200
+  damage18: 300
+  damage19: 400
+  damage20: 600
+  damage21: 800
+  damage22: 1000
+  damage23: 1500
+  damage24: 2000
+  damage25: 4000
